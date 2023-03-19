@@ -1,0 +1,15 @@
+D:\task\TPMOD-5-KPL\tpmod5_1302210025\tpmod5_1302210025\bin\Debug\net6.0\tpmod5_1302210025.exe
+D:\task\TPMOD-5-KPL\tpmod5_1302210025\tpmod5_1302210025\bin\Debug\net6.0\tpmod5_1302210025.deps.json
+D:\task\TPMOD-5-KPL\tpmod5_1302210025\tpmod5_1302210025\bin\Debug\net6.0\tpmod5_1302210025.runtimeconfig.json
+D:\task\TPMOD-5-KPL\tpmod5_1302210025\tpmod5_1302210025\bin\Debug\net6.0\tpmod5_1302210025.dll
+D:\task\TPMOD-5-KPL\tpmod5_1302210025\tpmod5_1302210025\bin\Debug\net6.0\tpmod5_1302210025.pdb
+D:\task\TPMOD-5-KPL\tpmod5_1302210025\tpmod5_1302210025\obj\Debug\net6.0\tpmod5_1302210025.csproj.AssemblyReference.cache
+D:\task\TPMOD-5-KPL\tpmod5_1302210025\tpmod5_1302210025\obj\Debug\net6.0\tpmod5_1302210025.GeneratedMSBuildEditorConfig.editorconfig
+D:\task\TPMOD-5-KPL\tpmod5_1302210025\tpmod5_1302210025\obj\Debug\net6.0\tpmod5_1302210025.AssemblyInfoInputs.cache
+D:\task\TPMOD-5-KPL\tpmod5_1302210025\tpmod5_1302210025\obj\Debug\net6.0\tpmod5_1302210025.AssemblyInfo.cs
+D:\task\TPMOD-5-KPL\tpmod5_1302210025\tpmod5_1302210025\obj\Debug\net6.0\tpmod5_1302210025.csproj.CoreCompileInputs.cache
+D:\task\TPMOD-5-KPL\tpmod5_1302210025\tpmod5_1302210025\obj\Debug\net6.0\tpmod5_1302210025.dll
+D:\task\TPMOD-5-KPL\tpmod5_1302210025\tpmod5_1302210025\obj\Debug\net6.0\refint\tpmod5_1302210025.dll
+D:\task\TPMOD-5-KPL\tpmod5_1302210025\tpmod5_1302210025\obj\Debug\net6.0\tpmod5_1302210025.pdb
+D:\task\TPMOD-5-KPL\tpmod5_1302210025\tpmod5_1302210025\obj\Debug\net6.0\tpmod5_1302210025.genruntimeconfig.cache
+D:\task\TPMOD-5-KPL\tpmod5_1302210025\tpmod5_1302210025\obj\Debug\net6.0\ref\tpmod5_1302210025.dll
